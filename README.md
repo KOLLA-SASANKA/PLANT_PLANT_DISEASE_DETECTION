@@ -12,7 +12,6 @@ This project aims to identify and classify diseases in plant leaves using image 
 - [Model Training](#model-training)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgements](#acknowledgements)
 
 ## Introduction
@@ -72,9 +71,6 @@ The trained model achieves high accuracy in detecting various plant leaf disease
 
 Contributions are welcome! Please fork the repository and submit a pull request with your improvements.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
