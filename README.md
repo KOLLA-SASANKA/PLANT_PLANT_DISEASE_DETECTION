@@ -2,9 +2,9 @@
 This project aims to identify and classify diseases in plant leaves using image processing and deep learning techniques. The system leverages a dataset of leaf images to accurately detect diseases at an early stage, providing a scalable and cost-effective solution for agricultural monitoring.
 
 **Table of Contents**
-.Introduction
-.Tech Stack
-.Installation
+_Introduction
+_Tech Stack
+_Installation
 .Usage
 .Dataset
 .Model Training
